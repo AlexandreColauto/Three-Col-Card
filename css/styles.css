@@ -23,7 +23,7 @@ img {
   border: none;
 }
 .col-lg-4 {
-  padding: 5rem;
+  padding: 2.5rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
