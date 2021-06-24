@@ -1,0 +1,67 @@
+h1 {
+  font-family: 'Big Shoulders Display', cursive;
+  font-size: 2.5rem;
+  margin: 2.5rem 0;
+}
+body {
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  color : hsl(0, 0%, 95%);
+}
+p{
+  color : hsla(0, 0%, 100%, 0.75);
+  line-height: 2;
+}
+img {
+  max-width: 75px;
+}
+.card {
+  justify-content:  center;
+  margin: 10.5rem auto;
+  color: #fff;
+  max-width: 70%;
+}
+.col-lg-4 {
+  padding: 5em 5em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.container {
+  border-radius: 5px;
+  overflow: hidden;
+}
+#sedan{
+  background-color: hsl(31, 77%, 52%);
+  min-height: 500px;
+}
+
+#suv{
+  background-color: hsl(184, 100%, 22%);
+  min-height: 500px;
+}
+#luxury {
+  background-color: hsl(179, 100%, 13%);
+  min-height: 500px;
+}
+
+.btn{
+  border-radius: 60px;
+  width: 150px;
+  height: 50px;
+  font-size: 15px;
+}
+.sedan-btn{
+  color: hsl(31, 77%, 52%);
+}
+
+.suv-btn{
+  color: hsl(184, 100%, 22%);
+}
+.luxury-btn{
+  color: hsl(179, 100%, 13%);
+}
+.btn:hover {
+  background-color: transparent;
+  color : hsl(0, 0%, 95%);
+}
