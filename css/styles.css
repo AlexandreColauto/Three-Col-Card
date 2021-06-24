@@ -29,6 +29,7 @@ img {
   justify-content: space-between;
 }
 .container {
+  padding: 0;
   border-radius: 5px;
   overflow: hidden;
 }
