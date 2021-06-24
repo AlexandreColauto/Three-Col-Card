@@ -20,6 +20,7 @@ img {
   margin: 10.5rem auto;
   color: #fff;
   max-width: 70%;
+  border: none;
 }
 .col-lg-4 {
   padding: 5rem;
